@@ -109,3 +109,993 @@ JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1619155177255	geckodriver	INFO	Listening on 127.0.0.1:61642
+1619155180316	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileuzU817"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619155185038	Marionette	INFO	Listening on port 61650
+1619155185127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619155186877	Marionette	INFO	Stopped listening on port 61650
+[Parent 644, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619155343910	geckodriver	INFO	Listening on 127.0.0.1:63989
+1619155346995	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilelnJIti"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619155350968	Marionette	INFO	Listening on port 63998
+1619155351247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619155361612	Marionette	INFO	Stopped listening on port 63998
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619155636860	geckodriver	INFO	Listening on 127.0.0.1:64104
+1619155639927	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileKPLpmf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619155644259	Marionette	INFO	Listening on port 54281
+1619155644794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619155646133	Marionette	INFO	Stopped listening on port 54281
+[Parent 8288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619157305110	geckodriver	INFO	Listening on 127.0.0.1:53567
+1619157308169	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileHy2dOt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619157312379	Marionette	INFO	Listening on port 53576
+1619157312493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619157313852	Marionette	INFO	Stopped listening on port 53576
+[Parent 8644, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619158174269	geckodriver	INFO	Listening on 127.0.0.1:53850
+1619158177366	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilec0944G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619158182121	Marionette	INFO	Listening on port 53859
+1619158182220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619158183565	Marionette	INFO	Stopped listening on port 53859
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619158403661	geckodriver	INFO	Listening on 127.0.0.1:55911
+1619158406717	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileQbEk2U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619158410709	Marionette	INFO	Listening on port 55920
+1619158410954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619158412265	Marionette	INFO	Stopped listening on port 55920
+[Parent 10876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619158464671	geckodriver	INFO	Listening on 127.0.0.1:55972
+1619158467754	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileP3e1N5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619158472009	Marionette	INFO	Listening on port 55982
+1619158472072	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619158473535	Marionette	INFO	Stopped listening on port 55982
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619158557920	geckodriver	INFO	Listening on 127.0.0.1:56044
+1619158560996	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileBf7h5W"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619158565479	Marionette	INFO	Listening on port 56052
+1619158565869	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619158567300	Marionette	INFO	Stopped listening on port 56052
+[Parent 8288, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1619158615711	geckodriver	INFO	Listening on 127.0.0.1:56100
+1619158618785	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileuX5IcD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619158622710	Marionette	INFO	Listening on port 56109
+1619158622998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619158624345	Marionette	INFO	Stopped listening on port 56109
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 16456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619159247691	geckodriver	INFO	Listening on 127.0.0.1:56274
+1619159250748	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilepKFPSP"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619159254717	Marionette	INFO	Listening on port 56282
+1619159254948	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1619159256264	Marionette	INFO	Stopped listening on port 56282
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620364017388	geckodriver	INFO	Listening on 127.0.0.1:51367
+1620364020150	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileUbZo72"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620364040610	Marionette	INFO	Listening on port 51376
+1620364041417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620364044443	Marionette	INFO	Stopped listening on port 51376
+1620368825075	geckodriver	INFO	Listening on 127.0.0.1:50340
+1620368828317	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileEEPluY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620368834920	Marionette	INFO	Listening on port 50348
+1620368835380	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620368835948	Marionette	INFO	Stopped listening on port 50348
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620369083614	geckodriver	INFO	Listening on 127.0.0.1:50458
+1620369086671	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilezKVSUt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620369089692	Marionette	INFO	Listening on port 50466
+1620369089860	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 2416, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620369091145	Marionette	INFO	Stopped listening on port 50466
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620369185279	geckodriver	INFO	Listening on 127.0.0.1:60364
+1620369188300	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile1LmIr6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620369191056	Marionette	INFO	Listening on port 60372
+1620369191483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620369192781	Marionette	INFO	Stopped listening on port 60372
+[Parent 9892, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9892, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620369210788	geckodriver	INFO	Listening on 127.0.0.1:60416
+1620369213839	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileK6EtFR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620369216499	Marionette	INFO	Listening on port 60424
+1620369217013	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620369218270	Marionette	INFO	Stopped listening on port 60424
+[Parent 5920, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620369226170	geckodriver	INFO	Listening on 127.0.0.1:60466
+1620369229220	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilexwJuY9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620369232032	Marionette	INFO	Listening on port 60476
+1620369232403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620369233733	Marionette	INFO	Stopped listening on port 60476
+[Parent 13444, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620369467585	geckodriver	INFO	Listening on 127.0.0.1:60561
+1620369470620	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile0yOw02"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620369473214	Marionette	INFO	Listening on port 60570
+1620369473308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620369473371	Marionette	INFO	Stopped listening on port 60570
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: services.settings: 
+  main/fxmonitor-breaches Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1620369542491	geckodriver	INFO	Listening on 127.0.0.1:60607
+1620369545533	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilelDEoiF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620369548219	Marionette	INFO	Listening on port 60615
+1620369548711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620369549951	Marionette	INFO	Stopped listening on port 60615
+[Parent 8608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 8608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620369918774	geckodriver	INFO	Listening on 127.0.0.1:53689
+1620369921847	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefIR798"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620369924810	Marionette	INFO	Listening on port 53698
+1620369925046	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620369926374	Marionette	INFO	Stopped listening on port 53698
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620369930759	geckodriver	INFO	Listening on 127.0.0.1:53743
+1620369933809	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileL8C2ox"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620369936799	Marionette	INFO	Listening on port 53751
+1620369937015	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620369938297	Marionette	INFO	Stopped listening on port 53751
+[Parent 8432, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620369981199	geckodriver	INFO	Listening on 127.0.0.1:53796
+1620369984227	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile9TffXg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620369987231	Marionette	INFO	Listening on port 53804
+1620369987419	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620369988693	Marionette	INFO	Stopped listening on port 53804
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620369994635	geckodriver	INFO	Listening on 127.0.0.1:53844
+1620369997653	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileAQzXvm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620370000230	Marionette	INFO	Listening on port 53852
+1620370000319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620370001694	Marionette	INFO	Stopped listening on port 53852
+1620370006909	geckodriver	INFO	Listening on 127.0.0.1:53890
+1620370009912	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile0lE3s1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620370012623	Marionette	INFO	Listening on port 53899
+1620370013081	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620370014327	Marionette	INFO	Stopped listening on port 53899
+1620370318663	geckodriver	INFO	Listening on 127.0.0.1:53995
+1620370321712	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileEH3q0D"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620370324607	Marionette	INFO	Listening on port 54004
+1620370324880	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620370326212	Marionette	INFO	Stopped listening on port 54004
+[Parent 11252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620370585987	geckodriver	INFO	Listening on 127.0.0.1:54075
+1620370589042	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefico0z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620370592014	Marionette	INFO	Listening on port 54083
+1620370592217	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620370593569	Marionette	INFO	Stopped listening on port 54083
+[Parent 10620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 10620, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620370596832	geckodriver	INFO	Listening on 127.0.0.1:54122
+1620370599886	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileFyOuxs"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620370602646	Marionette	INFO	Listening on port 54131
+1620370603071	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620370604368	Marionette	INFO	Stopped listening on port 54131
+[Parent 4876, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620370675836	geckodriver	INFO	Listening on 127.0.0.1:54176
+1620370678880	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileUIEIKb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620370681642	Marionette	INFO	Listening on port 54184
+1620370682029	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620370683408	Marionette	INFO	Stopped listening on port 54184
+[Parent 9000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 9000, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620370951113	geckodriver	INFO	Listening on 127.0.0.1:60953
+1620370954131	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilehhquhD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620370957663	Marionette	INFO	Listening on port 60961
+1620370957808	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620370959148	Marionette	INFO	Stopped listening on port 60961
+[Parent 1504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620371002637	geckodriver	INFO	Listening on 127.0.0.1:61004
+1620371005679	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile9KSv1R"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620371008669	Marionette	INFO	Listening on port 61012
+1620371008876	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 6576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620371010320	Marionette	INFO	Stopped listening on port 61012
+[Parent 6576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6576, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620371312389	geckodriver	INFO	Listening on 127.0.0.1:60077
+1620371315475	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilemnNSVN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620371318297	Marionette	INFO	Listening on port 60085
+1620371318676	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620371320957	Marionette	INFO	Stopped listening on port 60085
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620371358841	geckodriver	INFO	Listening on 127.0.0.1:60130
+1620371361895	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileskRSkO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620371364908	Marionette	INFO	Listening on port 60139
+1620371365074	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 1504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620371367558	Marionette	INFO	Stopped listening on port 60139
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620969296893	geckodriver	INFO	Listening on 127.0.0.1:57126
+1620969299846	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilez5cA8x"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620969655431	geckodriver	INFO	Listening on 127.0.0.1:58228
+1620969658431	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileJqivpc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620969662395	Marionette	INFO	Listening on port 58237
+1620969662846	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13156, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1620969663028	Marionette	INFO	Stopped listening on port 58237
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620969711690	geckodriver	INFO	Listening on 127.0.0.1:58277
+1620969714710	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiledhqIJK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620969718297	Marionette	INFO	Listening on port 58285
+1620969718425	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 5564, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620969723082	Marionette	INFO	Stopped listening on port 58285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620969762092	geckodriver	INFO	Listening on 127.0.0.1:58336
+1620969765140	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiletM2tCh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620969768358	Marionette	INFO	Listening on port 58344
+1620969768837	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620969780135	Marionette	INFO	Stopped listening on port 58344
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620971411396	geckodriver	INFO	Listening on 127.0.0.1:57680
+1620971414412	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiledVQD4h"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620971417764	Marionette	INFO	Listening on port 57688
+1620971418110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620971427617	Marionette	INFO	Stopped listening on port 57688
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620971462321	geckodriver	INFO	Listening on 127.0.0.1:57771
+1620971465352	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilecshrty"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620971468290	Marionette	INFO	Listening on port 57779
+1620971468532	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620971478864	Marionette	INFO	Stopped listening on port 57779
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620971518015	geckodriver	INFO	Listening on 127.0.0.1:57838
+1620971521070	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilewlYluG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620971524319	Marionette	INFO	Listening on port 57846
+1620971524760	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620971534982	Marionette	INFO	Stopped listening on port 57846
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620971566717	geckodriver	INFO	Listening on 127.0.0.1:57930
+1620971569717	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileFXUlmK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620971573027	Marionette	INFO	Listening on port 57938
+1620971573418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620971574235	Marionette	INFO	Stopped listening on port 57938
+[Parent 14924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620972986611	geckodriver	INFO	Listening on 127.0.0.1:58626
+1620972989669	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiledoAV96"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620972993085	Marionette	INFO	Listening on port 58634
+1620972993351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620972994243	Marionette	INFO	Stopped listening on port 58634
+[Parent 6608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 6608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1620972995050	geckodriver	INFO	Listening on 127.0.0.1:58674
+1620972998115	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile3GyGMd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620973001253	Marionette	INFO	Listening on port 58683
+1620973001301	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1620973002166	Marionette	INFO	Stopped listening on port 58683
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621573761934	geckodriver	INFO	Listening on 127.0.0.1:49157
+1621573764606	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilerdegxW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621573794603	Marionette	INFO	Listening on port 49165
+1621573794883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621573796832	Marionette	INFO	Stopped listening on port 49165
+[Parent 16036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621573797732	geckodriver	INFO	Listening on 127.0.0.1:49226
+1621573800820	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileY1UdNu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621573804099	Marionette	INFO	Listening on port 49234
+1621573804533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621573805400	Marionette	INFO	Stopped listening on port 49234
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621573988120	geckodriver	INFO	Listening on 127.0.0.1:49335
+1621573991192	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilev0cHzd"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621573994337	Marionette	INFO	Listening on port 49344
+1621573994375	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621573995899	Marionette	INFO	Stopped listening on port 49344
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1621573996700	geckodriver	INFO	Listening on 127.0.0.1:49383
+1621573999779	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileYnJQ4n"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621574003000	Marionette	INFO	Listening on port 49391
+1621574003476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621574004172	Marionette	INFO	Stopped listening on port 49391
+[Parent 18440, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621574147221	geckodriver	INFO	Listening on 127.0.0.1:52318
+1621574150281	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileyAaHdx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621574153223	Marionette	INFO	Listening on port 52326
+1621574153466	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621574163744	Marionette	INFO	Stopped listening on port 52326
+1621574165004	geckodriver	INFO	Listening on 127.0.0.1:52382
+1621574168056	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileGlElq4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621574170775	Marionette	INFO	Listening on port 52391
+1621574171266	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621574181517	Marionette	INFO	Stopped listening on port 52391
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621574986356	geckodriver	INFO	Listening on 127.0.0.1:54841
+1621574989410	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile7OVZes"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621574992197	Marionette	INFO	Listening on port 54849
+1621574992602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621575004126	Marionette	INFO	Stopped listening on port 54849
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621575004889	geckodriver	INFO	Listening on 127.0.0.1:54906
+1621575007911	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile8ZbdSl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621575010844	Marionette	INFO	Listening on port 54915
+1621575011076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621575011800	Marionette	INFO	Stopped listening on port 54915
+[Parent 19692, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 19692, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621575012492	geckodriver	INFO	Listening on 127.0.0.1:54951
+1621575015532	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileRARN1O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621575018607	Marionette	INFO	Listening on port 54969
+1621575018757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621575018961	Marionette	INFO	Stopped listening on port 54969
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 13656, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621575323279	geckodriver	INFO	Listening on 127.0.0.1:63330
+1621575326373	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileZd1o6U"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621575329363	Marionette	INFO	Listening on port 63338
+1621575329585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621575330496	Marionette	INFO	Stopped listening on port 63338
+[Parent 296, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621575331347	geckodriver	INFO	Listening on 127.0.0.1:63379
+1621575334395	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileAz2l72"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621575337454	Marionette	INFO	Listening on port 63388
+1621575337605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621575338429	Marionette	INFO	Stopped listening on port 63388
+[Parent 19596, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621575339213	geckodriver	INFO	Listening on 127.0.0.1:63424
+1621575342269	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilerOhJQt"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621575344999	Marionette	INFO	Listening on port 63434
+1621575345470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621575345598	Marionette	INFO	Stopped listening on port 63434
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621575785813	geckodriver	INFO	Listening on 127.0.0.1:64645
+1621575788851	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileB74F7c"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621575791755	Marionette	INFO	Listening on port 64653
+1621575792024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621575792881	Marionette	INFO	Stopped listening on port 64653
+[Parent 18652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621575793621	geckodriver	INFO	Listening on 127.0.0.1:64695
+1621575796691	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefVzfeT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621575799478	Marionette	INFO	Listening on port 64703
+1621575799894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621575800687	Marionette	INFO	Stopped listening on port 64703
+[Parent 17036, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621575801364	geckodriver	INFO	Listening on 127.0.0.1:64744
+1621575804443	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilex5wBAI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621575807314	Marionette	INFO	Listening on port 64752
+1621575807632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621575807786	Marionette	INFO	Stopped listening on port 64752
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1621575992794	geckodriver	INFO	Listening on 127.0.0.1:59238
+1621575995879	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilePi9qxh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621575998983	Marionette	INFO	Listening on port 59246
+1621575999053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621576000035	Marionette	INFO	Stopped listening on port 59246
+[Parent 2504, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621576000798	geckodriver	INFO	Listening on 127.0.0.1:59288
+1621576003833	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileaHFBGj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621576006776	Marionette	INFO	Listening on port 59297
+1621576007032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621576007745	Marionette	INFO	Stopped listening on port 59297
+[Parent 13436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13436, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621576008549	geckodriver	INFO	Listening on 127.0.0.1:59337
+1621576011623	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiler5BUhj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621576014359	Marionette	INFO	Listening on port 59346
+1621576014804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621576014958	Marionette	INFO	Stopped listening on port 59346
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+[Parent 18104, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621576268768	geckodriver	INFO	Listening on 127.0.0.1:59425
+1621576271812	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileMzEjIm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621576274683	Marionette	INFO	Listening on port 59434
+1621576275024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621576275908	Marionette	INFO	Stopped listening on port 59434
+[Parent 18544, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621576276629	geckodriver	INFO	Listening on 127.0.0.1:59476
+1621576279659	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileNcvF3M"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621576282244	Marionette	INFO	Listening on port 59484
+1621576282339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621576283180	Marionette	INFO	Stopped listening on port 59484
+[Parent 640, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621576283890	geckodriver	INFO	Listening on 127.0.0.1:59522
+1621576286928	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile4thyDh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621576289779	Marionette	INFO	Listening on port 59530
+1621576290117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621576300574	Marionette	INFO	Stopped listening on port 59530
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621577579071	geckodriver	INFO	Listening on 127.0.0.1:59835
+1621577582083	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilerNqtp7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577584997	Marionette	INFO	Listening on port 59844
+1621577585287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577586107	Marionette	INFO	Stopped listening on port 59844
+[Parent 19924, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621577618096	geckodriver	INFO	Listening on 127.0.0.1:59892
+1621577673474	geckodriver	INFO	Listening on 127.0.0.1:59917
+1621577676488	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileX4PRlC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577679351	Marionette	INFO	Listening on port 59928
+1621577679682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577680597	Marionette	INFO	Stopped listening on port 59928
+[Parent 7792, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7792, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621577681296	geckodriver	INFO	Listening on 127.0.0.1:56124
+1621577684323	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileX7ut2G"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577687290	Marionette	INFO	Listening on port 56132
+1621577690020	Marionette	INFO	Stopped listening on port 56132
+1621577696120	geckodriver	INFO	Listening on 127.0.0.1:56170
+1621577699178	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilebbQmEm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577702121	Marionette	INFO	Listening on port 56179
+1621577702405	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577703287	Marionette	INFO	Stopped listening on port 56179
+[Parent 15280, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621577703994	geckodriver	INFO	Listening on 127.0.0.1:56224
+1621577707025	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile3t7uO1"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577709914	Marionette	INFO	Listening on port 56233
+1621577710211	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577710922	Marionette	INFO	Stopped listening on port 56233
+[Parent 236, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621577711628	geckodriver	INFO	Listening on 127.0.0.1:56270
+1621577714672	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilerQj6Gx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577717365	Marionette	INFO	Listening on port 56279
+1621577717876	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577728439	Marionette	INFO	Stopped listening on port 56279
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621577748755	geckodriver	INFO	Listening on 127.0.0.1:56336
+1621577751802	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilejRYycf"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577754501	Marionette	INFO	Listening on port 56345
+1621577754992	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577765288	Marionette	INFO	Stopped listening on port 56345
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621577766107	geckodriver	INFO	Listening on 127.0.0.1:56397
+1621577769163	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileQCHVjl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577772253	Marionette	INFO	Listening on port 56406
+1621577772373	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577782679	Marionette	INFO	Stopped listening on port 56406
+1621577860192	geckodriver	INFO	Listening on 127.0.0.1:56480
+1621577863241	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilevKdH9K"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577866030	Marionette	INFO	Listening on port 56489
+1621577866409	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577876805	Marionette	INFO	Stopped listening on port 56489
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621577877634	geckodriver	INFO	Listening on 127.0.0.1:56540
+1621577880615	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiled20wSG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577883521	Marionette	INFO	Listening on port 56548
+1621577883794	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 10516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577894141	Marionette	INFO	Stopped listening on port 56548
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621577922139	geckodriver	INFO	Listening on 127.0.0.1:56606
+1621577925180	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileZs0TpN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577928087	Marionette	INFO	Listening on port 56614
+1621577928376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577938708	Marionette	INFO	Stopped listening on port 56614
+1621577939467	geckodriver	INFO	Listening on 127.0.0.1:56666
+1621577942494	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilepmFEAg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621577945194	Marionette	INFO	Listening on port 56675
+1621577945682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621577956014	Marionette	INFO	Stopped listening on port 56675
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621578019863	geckodriver	INFO	Listening on 127.0.0.1:56769
+1621578022896	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilehN6fKy"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621578025843	Marionette	INFO	Listening on port 56778
+1621578026100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621578027035	Marionette	INFO	Stopped listening on port 56778
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621578027856	geckodriver	INFO	Listening on 127.0.0.1:56820
+1621578030901	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefniNX5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621578033658	Marionette	INFO	Listening on port 56828
+1621578034086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621578034881	Marionette	INFO	Stopped listening on port 56828
+[Parent 11204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621578035593	geckodriver	INFO	Listening on 127.0.0.1:56868
+1621578038659	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileEYnhDF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621578041568	Marionette	INFO	Listening on port 56876
+1621578041859	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1621578052279	Marionette	INFO	Stopped listening on port 56876
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622181138861	geckodriver	INFO	Listening on 127.0.0.1:63354
+1622181141832	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile9Sn95X"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622181152383	Marionette	INFO	Listening on port 63363
+1622181152655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622181154114	Marionette	INFO	Stopped listening on port 63363
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622181267724	geckodriver	INFO	Listening on 127.0.0.1:63429
+1622181270773	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilelC9omO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622181274827	Marionette	INFO	Listening on port 63437
+1622181274998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622181276370	Marionette	INFO	Stopped listening on port 63437
+console.warn: services.settings: main/whats-new-panel sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622181277294	geckodriver	INFO	Listening on 127.0.0.1:63479
+1622181280331	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileoGAf95"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622181283399	Marionette	INFO	Listening on port 63487
+1622181283523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622181284363	Marionette	INFO	Stopped listening on port 63487
+[Parent 11204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622181285098	geckodriver	INFO	Listening on 127.0.0.1:63524
+1622181288161	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileMiUaRj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622181290973	Marionette	INFO	Listening on port 63533
+1622181291366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622181301783	Marionette	INFO	Stopped listening on port 63533
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622182747765	geckodriver	INFO	Listening on 127.0.0.1:63201
+1622182750782	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilecmvmAH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622182753822	Marionette	INFO	Listening on port 63211
+1622182754009	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622182755285	Marionette	INFO	Stopped listening on port 63211
+[Parent 9908, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622182799624	geckodriver	INFO	Listening on 127.0.0.1:63255
+1622182802659	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile0Zdc0P"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622182805473	Marionette	INFO	Listening on port 63267
+1622182805848	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622182816854	Marionette	INFO	Stopped listening on port 63267
+1622182817776	geckodriver	INFO	Listening on 127.0.0.1:63325
+1622182820808	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileyZBAiO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622182823923	Marionette	INFO	Listening on port 63333
+1622182824012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622182824909	Marionette	INFO	Stopped listening on port 63333
+[Parent 12512, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622182825664	geckodriver	INFO	Listening on 127.0.0.1:63370
+1622182828695	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileVYOzQ6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622182831773	Marionette	INFO	Listening on port 63379
+1622182831895	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622182832836	Marionette	INFO	Stopped listening on port 63379
+[Parent 18420, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622182949179	geckodriver	INFO	Listening on 127.0.0.1:60175
+1622182952228	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileN83i9L"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622182955803	Marionette	INFO	Listening on port 60183
+1622182955924	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622182967032	Marionette	INFO	Stopped listening on port 60183
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622182967945	geckodriver	INFO	Listening on 127.0.0.1:60236
+1622182970997	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilem0KSJg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622182974003	Marionette	INFO	Listening on port 60244
+1622182974220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622182975019	Marionette	INFO	Stopped listening on port 60244
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1622182975937	geckodriver	INFO	Listening on 127.0.0.1:60280
+1622182978954	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileXTXY68"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622182982062	Marionette	INFO	Listening on port 60289
+1622182982148	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622182983067	Marionette	INFO	Stopped listening on port 60289
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622784382416	geckodriver	INFO	Listening on 127.0.0.1:53149
+1622784385376	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileWQp3Nb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784396401	Marionette	INFO	Listening on port 53157
+1622784396544	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784397587	Marionette	INFO	Stopped listening on port 53157
+[Parent 15216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 15216, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622784399064	geckodriver	INFO	Listening on 127.0.0.1:53199
+1622784402134	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilee6MDUS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784406636	Marionette	INFO	Listening on port 53208
+1622784406968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784407912	Marionette	INFO	Stopped listening on port 53208
+[Parent 7580, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622784409319	geckodriver	INFO	Listening on 127.0.0.1:53245
+1622784412385	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileMlRoVq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784416609	Marionette	INFO	Listening on port 53254
+1622784416719	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784417626	Marionette	INFO	Stopped listening on port 53254
+[Parent 15956, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622784518616	geckodriver	INFO	Listening on 127.0.0.1:51954
+1622784521668	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileScJfyK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784525644	Marionette	INFO	Listening on port 51962
+1622784525889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784526998	Marionette	INFO	Stopped listening on port 51962
+[Parent 9084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622784528291	geckodriver	INFO	Listening on 127.0.0.1:52002
+1622784531336	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileMfl4sx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784535271	Marionette	INFO	Listening on port 52010
+1622784535561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784536454	Marionette	INFO	Stopped listening on port 52010
+[Parent 17144, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622784537521	geckodriver	INFO	Listening on 127.0.0.1:52047
+1622784540564	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilevpjePv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784544148	Marionette	INFO	Listening on port 52055
+1622784544260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784545158	Marionette	INFO	Stopped listening on port 52055
+[Parent 14720, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 14720, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622784588404	geckodriver	INFO	Listening on 127.0.0.1:52100
+1622784591448	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileFzXR5F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784595106	Marionette	INFO	Listening on port 52108
+1622784595196	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784596244	Marionette	INFO	Stopped listening on port 52108
+[Parent 17456, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622784597158	geckodriver	INFO	Listening on 127.0.0.1:52148
+1622784600199	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiledUeDen"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784604028	Marionette	INFO	Listening on port 52156
+1622784604444	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784605355	Marionette	INFO	Stopped listening on port 52156
+[Parent 10076, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622784606690	geckodriver	INFO	Listening on 127.0.0.1:52196
+1622784609717	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilel8bnv3"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784613897	Marionette	INFO	Listening on port 52204
+1622784613954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784614876	Marionette	INFO	Stopped listening on port 52204
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+[Parent 11232, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622784688347	geckodriver	INFO	Listening on 127.0.0.1:52247
+1622784691405	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileUmxqyI"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784695153	Marionette	INFO	Listening on port 52255
+1622784695626	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784696615	Marionette	INFO	Stopped listening on port 52255
+[Parent 6868, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622784697897	geckodriver	INFO	Listening on 127.0.0.1:52297
+1622784700991	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileAlZw3t"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784705193	Marionette	INFO	Listening on port 52305
+1622784705219	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784706133	Marionette	INFO	Stopped listening on port 52305
+[Parent 9972, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622784707614	geckodriver	INFO	Listening on 127.0.0.1:52342
+1622784710653	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile8Ga3SK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622784714957	Marionette	INFO	Listening on port 52350
+1622784715004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622784715767	Marionette	INFO	Stopped listening on port 52350
+[Parent 2364, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
