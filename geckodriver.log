@@ -1099,3 +1099,611 @@ JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: 
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1622794234633	geckodriver	INFO	Listening on 127.0.0.1:49817
+1622794237648	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile0vMWAK"
+1622794238365	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile0vMWAK\\search.json.mozlz4", (void 0)))
+1622794240648	Marionette	INFO	Listening on port 49825
+1622794240844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794242333	Marionette	INFO	Stopped listening on port 49825
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794243191	geckodriver	INFO	Listening on 127.0.0.1:49867
+1622794246244	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileQVQXSX"
+1622794246849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileQVQXSX\\search.json.mozlz4", (void 0)))
+1622794249027	Marionette	INFO	Listening on port 49875
+1622794249437	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622794249606	Marionette	INFO	Stopped listening on port 49875
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794250413	geckodriver	INFO	Listening on 127.0.0.1:49903
+1622794253445	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileALCpr4"
+1622794254033	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileALCpr4\\search.json.mozlz4", (void 0)))
+1622794256385	Marionette	INFO	Listening on port 49912
+1622794256604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794257350	Marionette	INFO	Stopped listening on port 49912
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794258065	geckodriver	INFO	Listening on 127.0.0.1:49947
+1622794261113	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileF0gwJD"
+1622794261695	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileF0gwJD\\search.json.mozlz4", (void 0)))
+1622794263871	Marionette	INFO	Listening on port 49955
+1622794264306	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794265160	Marionette	INFO	Stopped listening on port 49955
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794343708	geckodriver	INFO	Listening on 127.0.0.1:50015
+1622794346741	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileBOe35h"
+1622794347376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileBOe35h\\search.json.mozlz4", (void 0)))
+1622794349643	Marionette	INFO	Listening on port 50024
+1622794349933	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794350852	Marionette	INFO	Stopped listening on port 50024
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794351708	geckodriver	INFO	Listening on 127.0.0.1:50069
+1622794354750	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileyvoi08"
+1622794355302	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileyvoi08\\search.json.mozlz4", (void 0)))
+1622794357507	Marionette	INFO	Listening on port 50078
+1622794357949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622794358145	Marionette	INFO	Stopped listening on port 50078
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 16084, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794358847	geckodriver	INFO	Listening on 127.0.0.1:50108
+1622794361863	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileRK5sR2"
+1622794362386	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileRK5sR2\\search.json.mozlz4", (void 0)))
+1622794364824	Marionette	INFO	Listening on port 50116
+1622794365056	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794365833	Marionette	INFO	Stopped listening on port 50116
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794366627	geckodriver	INFO	Listening on 127.0.0.1:50154
+1622794369688	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileKsQ2xH"
+1622794370195	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileKsQ2xH\\search.json.mozlz4", (void 0)))
+1622794372397	Marionette	INFO	Listening on port 50172
+1622794372884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794373723	Marionette	INFO	Stopped listening on port 50172
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794492405	geckodriver	INFO	Listening on 127.0.0.1:50249
+1622794495437	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile613Bkw"
+1622794495968	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile613Bkw\\search.json.mozlz4", (void 0)))
+1622794498178	Marionette	INFO	Listening on port 50257
+1622794498631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794499554	Marionette	INFO	Stopped listening on port 50257
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794500308	geckodriver	INFO	Listening on 127.0.0.1:50300
+1622794503355	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilez1PB8Z"
+1622794503899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilez1PB8Z\\search.json.mozlz4", (void 0)))
+1622794506211	Marionette	INFO	Listening on port 50309
+1622794506547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622794506744	Marionette	INFO	Stopped listening on port 50309
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+[Parent 17024, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794507585	geckodriver	INFO	Listening on 127.0.0.1:50338
+1622794510617	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile3yA2sr"
+1622794511094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile3yA2sr\\search.json.mozlz4", (void 0)))
+1622794513343	Marionette	INFO	Listening on port 50346
+1622794513788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794514585	Marionette	INFO	Stopped listening on port 50346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622794515317	geckodriver	INFO	Listening on 127.0.0.1:50384
+1622794518357	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefM4Lvn"
+1622794518838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefM4Lvn\\search.json.mozlz4", (void 0)))
+1622794520950	Marionette	INFO	Listening on port 50392
+1622794521047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622794521871	Marionette	INFO	Stopped listening on port 50392
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622795703185	geckodriver	INFO	Listening on 127.0.0.1:58594
+1622795706227	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileG1NiVc"
+1622795706826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileG1NiVc\\search.json.mozlz4", (void 0)))
+1622795709157	Marionette	INFO	Listening on port 58603
+1622795709445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622795710304	Marionette	INFO	Stopped listening on port 58603
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622795711054	geckodriver	INFO	Listening on 127.0.0.1:58640
+1622795714070	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileZExSTU"
+1622795714731	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileZExSTU\\search.json.mozlz4", (void 0)))
+1622795717140	Marionette	INFO	Listening on port 58650
+1622795717275	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622795717480	Marionette	INFO	Stopped listening on port 58650
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1622795718777	geckodriver	INFO	Listening on 127.0.0.1:58674
+1622795721824	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilexKO2MS"
+1622795722460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilexKO2MS\\search.json.mozlz4", (void 0)))
+1622795724974	Marionette	INFO	Listening on port 58682
+1622795725000	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622795725805	Marionette	INFO	Stopped listening on port 58682
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622795726699	geckodriver	INFO	Listening on 127.0.0.1:58715
+1622795729747	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile9xRDRx"
+1622795730295	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile9xRDRx\\search.json.mozlz4", (void 0)))
+1622795732648	Marionette	INFO	Listening on port 58723
+1622795732935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622795733711	Marionette	INFO	Stopped listening on port 58723
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622796356560	geckodriver	INFO	Listening on 127.0.0.1:54091
+1622796359607	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileGPTTBY"
+1622796360105	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileGPTTBY\\search.json.mozlz4", (void 0)))
+1622796362313	Marionette	INFO	Listening on port 54099
+1622796362827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622796363734	Marionette	INFO	Stopped listening on port 54099
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622796364722	geckodriver	INFO	Listening on 127.0.0.1:54131
+1622796367762	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileZWZQAR"
+1622796368510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileZWZQAR\\search.json.mozlz4", (void 0)))
+1622796370569	Marionette	INFO	Listening on port 54140
+1622796370960	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622796371819	Marionette	INFO	Stopped listening on port 54140
+[Parent 11644, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622796372669	geckodriver	INFO	Listening on 127.0.0.1:54172
+1622796375747	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileGips8Z"
+1622796376326	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileGips8Z\\search.json.mozlz4", (void 0)))
+1622796378664	Marionette	INFO	Listening on port 54180
+1622796378935	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622796379695	Marionette	INFO	Stopped listening on port 54180
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1622796381429	geckodriver	INFO	Listening on 127.0.0.1:54209
+1622796384481	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileJ7GLg6"
+1622796385169	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileJ7GLg6\\search.json.mozlz4", (void 0)))
+1622796387332	Marionette	INFO	Listening on port 54218
+1622796387684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622796388542	Marionette	INFO	Stopped listening on port 54218
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797041461	geckodriver	INFO	Listening on 127.0.0.1:54597
+1622797044511	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileJtYGVt"
+1622797045045	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileJtYGVt\\search.json.mozlz4", (void 0)))
+1622797047489	Marionette	INFO	Listening on port 54606
+1622797047704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797048571	Marionette	INFO	Stopped listening on port 54606
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797049463	geckodriver	INFO	Listening on 127.0.0.1:54645
+1622797052479	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileiLAZtP"
+1622797053095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileiLAZtP\\search.json.mozlz4", (void 0)))
+1622797055592	Marionette	INFO	Listening on port 54653
+1622797055654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797056679	Marionette	INFO	Stopped listening on port 54653
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797057417	geckodriver	INFO	Listening on 127.0.0.1:54692
+1622797060464	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilexGbdLP"
+1622797061054	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilexGbdLP\\search.json.mozlz4", (void 0)))
+1622797063214	Marionette	INFO	Listening on port 54700
+1622797063657	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797064457	Marionette	INFO	Stopped listening on port 54700
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797065210	geckodriver	INFO	Listening on 127.0.0.1:54734
+1622797068245	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilex53kR5"
+1622797068868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilex53kR5\\search.json.mozlz4", (void 0)))
+1622797071204	Marionette	INFO	Listening on port 54742
+1622797071445	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797072194	Marionette	INFO	Stopped listening on port 54742
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+[Parent 16552, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797089128	geckodriver	INFO	Listening on 127.0.0.1:54780
+1622797092182	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileBwJEdm"
+1622797092777	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileBwJEdm\\search.json.mozlz4", (void 0)))
+1622797094992	Marionette	INFO	Listening on port 54788
+1622797095362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797097694	Marionette	INFO	Stopped listening on port 54788
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797098554	geckodriver	INFO	Listening on 127.0.0.1:54829
+1622797101622	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile4rc6cF"
+1622797102177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile4rc6cF\\search.json.mozlz4", (void 0)))
+1622797104465	Marionette	INFO	Listening on port 54837
+1622797104810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797107182	Marionette	INFO	Stopped listening on port 54837
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797107984	geckodriver	INFO	Listening on 127.0.0.1:54878
+1622797111016	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilenGuKMd"
+1622797111593	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilenGuKMd\\search.json.mozlz4", (void 0)))
+1622797113963	Marionette	INFO	Listening on port 54886
+1622797114177	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797116544	Marionette	INFO	Stopped listening on port 54886
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797117582	geckodriver	INFO	Listening on 127.0.0.1:54918
+1622797120629	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileVyJnQl"
+1622797121355	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileVyJnQl\\search.json.mozlz4", (void 0)))
+1622797123549	Marionette	INFO	Listening on port 54926
+1622797123824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797126127	Marionette	INFO	Stopped listening on port 54926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797134484	geckodriver	INFO	Listening on 127.0.0.1:54975
+1622797137515	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile6OBE83"
+1622797138121	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofile6OBE83\\search.json.mozlz4", (void 0)))
+1622797140194	Marionette	INFO	Listening on port 54983
+1622797140712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797143062	Marionette	INFO	Stopped listening on port 54983
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797143840	geckodriver	INFO	Listening on 127.0.0.1:55022
+1622797146887	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilecBh5gb"
+1622797147527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilecBh5gb\\search.json.mozlz4", (void 0)))
+1622797149868	Marionette	INFO	Listening on port 55030
+1622797150079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797152500	Marionette	INFO	Stopped listening on port 55030
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797153230	geckodriver	INFO	Listening on 127.0.0.1:55070
+1622797156301	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefFQ3dG"
+1622797157009	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefFQ3dG\\search.json.mozlz4", (void 0)))
+1622797159413	Marionette	INFO	Listening on port 55078
+1622797159505	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797161969	Marionette	INFO	Stopped listening on port 55078
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797162727	geckodriver	INFO	Listening on 127.0.0.1:55114
+1622797165774	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilevf3gEV"
+1622797166442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilevf3gEV\\search.json.mozlz4", (void 0)))
+1622797168601	Marionette	INFO	Listening on port 55122
+1622797168972	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797171251	Marionette	INFO	Stopped listening on port 55122
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797267801	geckodriver	INFO	Listening on 127.0.0.1:55175
+1622797270864	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileE58LJa"
+1622797271412	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileE58LJa\\search.json.mozlz4", (void 0)))
+1622797273617	Marionette	INFO	Listening on port 55183
+1622797274061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797276454	Marionette	INFO	Stopped listening on port 55183
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797277345	geckodriver	INFO	Listening on 127.0.0.1:55219
+1622797280377	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilem5zIMB"
+1622797280948	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilem5zIMB\\search.json.mozlz4", (void 0)))
+1622797283471	Marionette	INFO	Listening on port 55227
+1622797283582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797286097	Marionette	INFO	Stopped listening on port 55227
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+[Parent 13324, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797287023	geckodriver	INFO	Listening on 127.0.0.1:55266
+1622797290039	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilenRhyjK"
+1622797290651	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilenRhyjK\\search.json.mozlz4", (void 0)))
+1622797292864	Marionette	INFO	Listening on port 55274
+1622797293247	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797295499	Marionette	INFO	Stopped listening on port 55274
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797296344	geckodriver	INFO	Listening on 127.0.0.1:55312
+1622797299355	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileLPfPHD"
+1622797299859	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileLPfPHD\\search.json.mozlz4", (void 0)))
+1622797301899	Marionette	INFO	Listening on port 55320
+1622797302005	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797304384	Marionette	INFO	Stopped listening on port 55320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797364103	geckodriver	INFO	Listening on 127.0.0.1:50248
+1622797367150	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileYFCgUd"
+1622797367677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileYFCgUd\\search.json.mozlz4", (void 0)))
+1622797370061	Marionette	INFO	Listening on port 50256
+1622797370362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797371314	Marionette	INFO	Stopped listening on port 50256
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+[Parent 16672, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797372312	geckodriver	INFO	Listening on 127.0.0.1:50294
+1622797375359	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileuitZoH"
+1622797375853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileuitZoH\\search.json.mozlz4", (void 0)))
+1622797377975	Marionette	INFO	Listening on port 50303
+1622797378033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797379017	Marionette	INFO	Stopped listening on port 50303
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1622797379741	geckodriver	INFO	Listening on 127.0.0.1:50328
+1622797382788	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileDktzKE"
+1622797383428	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileDktzKE\\search.json.mozlz4", (void 0)))
+1622797385621	Marionette	INFO	Listening on port 50337
+1622797385964	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797386727	Marionette	INFO	Stopped listening on port 50337
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797388882	geckodriver	INFO	Listening on 127.0.0.1:50376
+1622797391944	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileq6frg7"
+1622797392500	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileq6frg7\\search.json.mozlz4", (void 0)))
+1622797394941	Marionette	INFO	Listening on port 50388
+1622797395162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797396016	Marionette	INFO	Stopped listening on port 50388
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797513276	geckodriver	INFO	Listening on 127.0.0.1:50451
+1622797516323	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileLpFQ9n"
+1622797516905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileLpFQ9n\\search.json.mozlz4", (void 0)))
+1622797519252	Marionette	INFO	Listening on port 50459
+1622797519514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797521897	Marionette	INFO	Stopped listening on port 50459
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797522642	geckodriver	INFO	Listening on 127.0.0.1:50495
+1622797525700	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileedvbma"
+1622797526365	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileedvbma\\search.json.mozlz4", (void 0)))
+1622797528781	Marionette	INFO	Listening on port 50503
+1622797528904	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797531240	Marionette	INFO	Stopped listening on port 50503
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797532026	geckodriver	INFO	Listening on 127.0.0.1:50533
+1622797535073	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileJrUGzm"
+1622797535585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileJrUGzm\\search.json.mozlz4", (void 0)))
+1622797537736	Marionette	INFO	Listening on port 50542
+1622797538240	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797540539	Marionette	INFO	Stopped listening on port 50542
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797541290	geckodriver	INFO	Listening on 127.0.0.1:50574
+1622797544310	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilevDXqVK"
+1622797544926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilevDXqVK\\search.json.mozlz4", (void 0)))
+1622797547196	Marionette	INFO	Listening on port 50583
+1622797547515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797549813	Marionette	INFO	Stopped listening on port 50583
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797555693	geckodriver	INFO	Listening on 127.0.0.1:50623
+1622797558724	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiletmiAgC"
+1622797559322	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiletmiAgC\\search.json.mozlz4", (void 0)))
+1622797561685	Marionette	INFO	Listening on port 50631
+1622797561895	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797564349	Marionette	INFO	Stopped listening on port 50631
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797565089	geckodriver	INFO	Listening on 127.0.0.1:50671
+1622797568136	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefzVplX"
+1622797568782	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefzVplX\\search.json.mozlz4", (void 0)))
+1622797571207	Marionette	INFO	Listening on port 50679
+1622797571304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797573809	Marionette	INFO	Stopped listening on port 50679
+console.warn: services.settings: main/cfr-fxa sync interrupted by shutdown
+[Parent 12276, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797574746	geckodriver	INFO	Listening on 127.0.0.1:50719
+1622797577761	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileoL6Sfm"
+1622797578256	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileoL6Sfm\\search.json.mozlz4", (void 0)))
+1622797580434	Marionette	INFO	Listening on port 50727
+1622797580963	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797583205	Marionette	INFO	Stopped listening on port 50727
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 12408, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797583934	geckodriver	INFO	Listening on 127.0.0.1:50766
+1622797587013	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefLIpco"
+1622797587826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilefLIpco\\search.json.mozlz4", (void 0)))
+1622797590186	Marionette	INFO	Listening on port 50774
+1622797590213	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797592604	Marionette	INFO	Stopped listening on port 50774
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+[Parent 8048, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622797597824	geckodriver	INFO	Listening on 127.0.0.1:50813
+1622797600840	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilen5HT2X"
+1622797601543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofilen5HT2X\\search.json.mozlz4", (void 0)))
+1622797604057	Marionette	INFO	Listening on port 50821
+1622797604535	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797606854	Marionette	INFO	Stopped listening on port 50821
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797609690	geckodriver	INFO	Listening on 127.0.0.1:50863
+1622797612720	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileW01jCM"
+1622797613293	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofileW01jCM\\search.json.mozlz4", (void 0)))
+1622797615417	Marionette	INFO	Listening on port 50872
+1622797615921	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797618290	Marionette	INFO	Stopped listening on port 50872
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622797619007	geckodriver	INFO	Listening on 127.0.0.1:50903
+1622797622007	mozrunner::runner	INFO	Running command: "G:\\firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiletFyLST"
+1622797622562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fcche\\AppData\\Local\\Temp\\rust_mozprofiletFyLST\\search.json.mozlz4", (void 0)))
+1622797624900	Marionette	INFO	Listening on port 50913
+1622797625206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1622797627570	Marionette	INFO	Stopped listening on port 50913
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
